@@ -12,7 +12,7 @@
 https://www.kaggle.com/c/choose-tutors
 
 ### Решение
-<br>https://github.com/GladyshevVitaly/ML-Kaggle-Self-written-Gradient-Boosting/blob/main/Choose%20tutors.ipynb
+<br>https://github.com/GladyshevVitaly/ML-Kaggle-Handwritten-ML-Algs/blob/main/Choose%20tutors.ipynb
 
 ### Лидерборд
 ROC AUC: 0.84559
@@ -23,7 +23,7 @@ ROC AUC: 0.84559
 https://www.kaggle.com/c/tutors-expected-math-exam-results
 
 ### Решение
-<br>https://github.com/GladyshevVitaly/ML-Kaggle-Self-written-Gradient-Boosting/blob/main/Tutors%20expected%20math%20exam%20results.ipynb
+<br>https://github.com/GladyshevVitaly/ML-Kaggle-Handwritten-ML-Algs/blob/main/Tutors%20expected%20math%20exam%20results.ipynb
 
 ### Лидерборд
 Коэффициент детерминации: 0.78196
