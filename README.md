@@ -14,7 +14,7 @@ https://www.kaggle.com/c/choose-tutors
 
 ### Лидерборд
 ROC AUC: 0.84559
-https://www.kaggle.com/c/choose-tutors/leaderboard
+<br>https://www.kaggle.com/c/choose-tutors/leaderboard
 
 ## Задача регрессии
 
@@ -23,4 +23,4 @@ https://www.kaggle.com/c/tutors-expected-math-exam-results
 
 ### Лидерборд
 Коэффициент детерминации: 0.78196
-https://www.kaggle.com/c/tutors-expected-math-exam-results/leaderboard
+<br>https://www.kaggle.com/c/tutors-expected-math-exam-results/leaderboard
