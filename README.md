@@ -23,7 +23,7 @@ ROC AUC: 0.84559
 https://www.kaggle.com/c/tutors-expected-math-exam-results
 
 ### Решение
-<br>
+<br>https://github.com/GladyshevVitaly/ML-Kaggle-Self-written-Gradient-Boosting/blob/main/Tutors%20expected%20math%20exam%20results.ipynb
 
 ### Лидерборд
 Коэффициент детерминации: 0.78196
